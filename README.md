@@ -2,7 +2,7 @@
 
 > **“记录你在博物馆里，那些只属于你的瞬间。”**
 - **一个为热爱文化历史、念旧且有规划的旅行者打造的「私人博物馆记忆库」。**
-> 🔗 **[立即在线体验 Demo](https://museum-memory-demo.vercel.app/)**
+> 🔗 **[立即在线体验 Demo](https://museum-memory.vercel.app/)**
 
 ---
 
